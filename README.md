@@ -1,8 +1,11 @@
-# Portfolio
-Hey there! This is a portfolio showcasing tons of various projects I've completed (or currently completing) ranging from full fledged websites and phone applications, to Reddit bots and algorithims. Almost all of the code I've worked on can be found here and is divided into the following categories:
--My favorite and most successful projects (Admissions Officers you'll definitely want to check this out!)
--Completed iOS and Android applications
--Phone applications that I'm currently completing
--Algorithms and Scripts
--Reddit Bots
--Other Projects
+Hey there! This is a portfolio showcasing tons of projects I've completed (or currently working on) ranging from full fledged websites and phone applications, to Reddit bots and algorithims. Almost all of the code I've worked on can be found here.                                                                                                                                   
+Inside the portfolio, it includes the following: 
+
+      -My favorite and most successful projects (Admissions Officers you'll definitely want to check this out!)
+      -Completed iOS and Android applications
+      -Phone applications that I'm currently completing
+      -Algorithms and Scripts
+      -Reddit Bots
+      -Miscellanious Projects
+
+Read the individual "README" files to gain background information of certain files including pictures and descriptions of my work! 
